@@ -8,6 +8,14 @@ Template repo to be used in Omegapoint GIT course labs.
 
 ##Git Lab instructions
 
+Install and initialise git flow
+Make sure to use different name for master and develop branch to avoid corrupting test repo and 
+
+```
+brew install git-flow
+git flow init
+```
+
 Check out course lab files
 
 ```
@@ -27,3 +35,15 @@ git clone git@github.com:Omegapoint/git-course-lab.git
 * Commit your files
 * Check out your branch
 * Finish feature branch
+ 
+### Making a release
+* Start a release
+* Publish the release branch 
+* Make a change in a release branch
+* Revert that commit
+* Finish the release
+
+### Making a hotfix 
+ * Make a hotfix branch
+ * Commit a few changes
+ * Finish the hotfix branch
