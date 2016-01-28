@@ -22,4 +22,8 @@ git clone git@github.com:Omegapoint/git-course-lab.git
 * Commit files
 * Publish your branch
 * Wait for your partner to check out your branch, makes some changes and push them
+* Check out your partners feature branch
+* Make some changes in her files
+* Commit your files
+* Check out your branch
 * Finish feature branch
