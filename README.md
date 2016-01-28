@@ -46,4 +46,7 @@ git clone git@github.com:Omegapoint/git-course-lab.git
 ### Making a hotfix 
  * Make a hotfix branch
  * Commit a few changes
- * Finish the hotfix branch
+ * Make pull request of your changes
+ * Review changes with your partner in github
+ * Accept changes
+ * Finish hotfix branch
