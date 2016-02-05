@@ -18,6 +18,8 @@ NB: Please do not commit anything to master branch, it will make cleanup a bit h
 
 ##Assignment
 
+It is recommended that assignment is done by student in pairs.
+
 ### Feature branches
 * Create new feature branch
 * Add a few files to it
