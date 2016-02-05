@@ -1,15 +1,25 @@
 # git-course-lab
-Template repo to be used in Omegapoint GIT course labs.
+Training repo to be used in Omegapoint GIT course labs.
+
+NB: Please do not commit anything to master branch, it will make cleanup a bit harder.
 
 ## Course prerequisites
-* Source Tree from Atlassian is installed
-* GitHub account is configured with SSH keys
-* Student has access to Omegapoint repositories
+
+* Student has git installed on his machine. (https://git-scm.com/downloads or OS-dependent package manager)
+* Student GitHub account is configured with SSH keys
+* Student has push access to this project
+** Instructor should contact one of the project admins to get proper access and be able to add students to this repo.
+* GitHug (https://github.com/Gazler/githug) is installed on student's machine.
+** NB: GitHug requires Ruby to be installed on the machine to work.
+
+### Optional
+* Source Tree from Atlassian is installed OR
+* Another GIT visualisation tool is used
 
 ##Git Lab instructions
 
-Install and initialise git flow
-Make sure to use different name for master and develop branch to avoid corrupting test repo and 
+Install and initialise git flow.
+It can be done via command line (requires installing git flow) or through SourceTree (no extra installation)
 
 ```
 brew install git-flow
