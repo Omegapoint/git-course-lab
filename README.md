@@ -12,7 +12,7 @@ NB: Please do not commit anything to master branch, it will make cleanup a bit h
 * GitHug (https://github.com/Gazler/githug) is installed on student's machine.
   * NB: GitHug requires Ruby to be installed on the machine to work.
 
-### Optional
+####Optional
 * Source Tree from Atlassian is installed OR
 * Another GIT visualisation tool
 
