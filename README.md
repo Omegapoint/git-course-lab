@@ -8,13 +8,13 @@ NB: Please do not commit anything to master branch, it will make cleanup a bit h
 * Student has git installed on his machine. (https://git-scm.com/downloads or OS-dependent package manager)
 * Student GitHub account is configured with SSH keys
 * Student has push access to this project
-** Instructor should contact one of the project admins to get proper access and be able to add students to this repo.
+  * Instructor should contact one of the project admins to get proper access and be able to add students to this repo.
 * GitHug (https://github.com/Gazler/githug) is installed on student's machine.
-** NB: GitHug requires Ruby to be installed on the machine to work.
+  * NB: GitHug requires Ruby to be installed on the machine to work.
 
 ### Optional
 * Source Tree from Atlassian is installed OR
-* Another GIT visualisation tool is used
+* Another GIT visualisation tool
 
 ##Git Lab instructions
 
