@@ -16,22 +16,6 @@ NB: Please do not commit anything to master branch, it will make cleanup a bit h
 * Source Tree from Atlassian is installed OR
 * Another GIT visualisation tool
 
-##Git Lab instructions
-
-Install and initialise git flow.
-It can be done via command line (requires installing git flow) or through SourceTree (no extra installation)
-
-```
-brew install git-flow
-git flow init
-```
-
-Check out course lab files
-
-```
-git clone git@github.com:Omegapoint/git-course-lab.git
-```
-
 ##Assignment
 
 ### Feature branches
