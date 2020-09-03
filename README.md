@@ -1,48 +1,24 @@
-# git-course-lab
-Training repo to be used in Omegapoint GIT course labs.
+#### Uppdaterad 2020-09-04 av Niklas Hätty
 
-NB: Please do not commit anything to master branch, it will make cleanup a bit harder.
+Välkommen till Git 101! 
 
-## Course prerequisites
 
-* Student has git installed on his machine. (https://git-scm.com/downloads or OS-dependent package manager)
-* Student GitHub account is configured with SSH keys
-* Student has push access to this project
-  * Instructor should contact one of the project admins to get proper access and be able to add students to this repo.
-* GitHug (https://github.com/Gazler/githug) is installed on student's machine.
-  * NB: GitHug requires Ruby to be installed on the machine to work.
+## Git 101
+I denna kurs går vi igenom grunderna i Git. Målet med kursen är att man ska lära sig hur man undviker och hanterar knepiga situationer med Git som man kan tänkas stöta på ute på uppdrag. Vi går exempelvis igenom följande:
+- Olika sätt att använda Git (terminal, gui-program)
+- Grundläggande workflow med hjälp av Git
+- Undvika och lösa konflikter Rebase och dess konsekvenser, problem, samt möjligheter
+- Branching-strategier
+- Riktiga scenarion vi stöter på varje dag med lösningsförslag
 
-####Optional
-* Source Tree from Atlassian is installed OR
-* Another GIT visualisation tool
+### Upplägg/Agenda:
+Kort genomgång av git, labb, gemensam genomgång av olika scenarier.
 
-##Assignment
+### Key takeaways:
+Vi lär oss att undvika enkla misstag som leder till tidsödande problem. Vi lär oss att vara bekväma med att använda git i ett större projekt.
 
-It is recommended that assignment is done by student in pairs.
-
-### Feature branches
-* Create new feature branch
-* Add a few files to it
-* Commit files
-* Publish your branch
-* Wait for your partner to check out your branch, makes some changes and push them
-* Check out your partners feature branch
-* Make some changes in her files
-* Commit your files
-* Check out your branch
-* Finish feature branch
- 
-### Making a release
-* Start a release
-* Publish the release branch 
-* Make a change in a release branch
-* Revert that commit
-* Finish the release
-
-### Making a hotfix 
- * Make a hotfix branch
- * Commit a few changes
- * Make pull request of your changes
- * Review changes with your partner in github
- * Accept changes
- * Finish hotfix branch
+### Förberedelser:
+Ta med egen dator och installera
+1. git scm (inte ett gui-program): https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+2. Interaktivt läroverktyg githug: https://github.com/Gazler/githug/blob/master/README.md
+Installationsinstruktioner finns för samtliga operativsystem. För windows rekommenderar vi att nI installerar githug med 'gem install githug' genom med rubys egna terminal som kommer med installationen av ruby.
