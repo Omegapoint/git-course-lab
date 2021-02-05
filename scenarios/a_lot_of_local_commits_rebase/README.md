@@ -17,5 +17,6 @@ git rebase --interactive <first_commit_hash>
 3) Done!
 
 ### Comments
-This will change history. Do *NOT* do this when commits are on the remote.
+* This will change history. Do *NOT* do this when commits are on the remote. (Maaaybe if you are 100% sure you're the only one looking/changing a remote branch)
+
 

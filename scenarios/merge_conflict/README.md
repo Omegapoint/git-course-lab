@@ -9,7 +9,7 @@ Solve a trivial merge conflict
 ### How to achieve this?
 ```
 sh create_conflict.sh
-ch scenario_merge_conflict
+cd scenario_merge_conflict
 ```
 
 1) Open the file with the conflict

@@ -1,4 +1,4 @@
-#### Uppdaterad 2020-09-04 av Niklas Hätty
+#### Uppdaterad 2021-02-05 av Niklas Hätty
 
 Välkommen till Git 101! 
 

@@ -1,7 +1,7 @@
 #!/bin/bash
 SUCCESS="true"
 FAIL="false"
-WORD_LIST_FILE_PATH="/usr/share/dict/cracklib-small"
+WORD_LIST_FILE_PATH="/usr/share/dict/words"
 
 mkdir scenario_find_faulty_commit
 chmod +x test.sh
